@@ -2,8 +2,8 @@
 	"name": "Neext Light theme",
 	"type": "light",
 	"colors": {
-		"editor.background": "#f5f5f5",
-		"editor.foreground": "#333333",
+		"editor.background": "#ffffff",
+		"editor.foreground": "#000000",
         "list.activeSelectionIconForeground": "#fff"
 	},
 	"tokenColors": [

@@ -1,7 +1,7 @@
 {
-    "name": "nxt-light",
-    "displayName": "nxt-light",
-    "description": "nxt-light",
+    "name": "nxt-theme",
+    "displayName": "nxt-theme",
+    "description": "nxt-theme",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.63.0"
@@ -15,6 +15,26 @@
                 "label": "Neext Light theme",
                 "uiTheme": "vs",
                 "path": "./themes/nxt-light-theme-color-theme.json"
+            },
+            {
+                "label": "Next Light theme V2",
+                "uiTheme": "vs",
+                "path": "./themes/nxt-light-v2.json"
+            },
+            {
+                "label": "Next Dark",
+                "uiTheme": "vs",
+                "path": "./themes/nxt-dark.json"
+            },
+            {
+                "label": "Test",
+                "uiTheme": "vs",
+                "path": "./test.json"
+            },
+            {
+                "label": "Don't try this Theme!",
+                "uiTheme": "vs",
+                "path": "./themes/nxt-RED.json"
             }
         ]
     }
