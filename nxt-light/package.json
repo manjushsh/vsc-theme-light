@@ -1,0 +1,21 @@
+{
+    "name": "nxt-light",
+    "displayName": "nxt-light",
+    "description": "nxt-light",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Neext Light theme",
+                "uiTheme": "vs",
+                "path": "./themes/nxt-light-theme-color-theme.json"
+            }
+        ]
+    }
+}
