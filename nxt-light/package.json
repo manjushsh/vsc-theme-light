@@ -28,5 +28,21 @@
                 "path": "./themes/nxt-RED.json"
             }
         ]
-    }
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/manjushsh/vsc-theme-light.git"
+      },
+      "keywords": [
+        "vscode",
+        "theme",
+        "dark",
+        "dark-theme"
+      ],
+      "author": "Manjush S",
+      "license": "MIT",
+      "bugs": {
+        "url": "https://github.com/manjushsh/vsc-theme-light/issues"
+      },
+      "homepage": "https://github.com/manjushsh/vsc-theme-light#readme"
 }
