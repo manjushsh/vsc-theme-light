@@ -1,0 +1,48 @@
+{
+    "name": "nxt-theme",
+    "displayName": "nxt-theme",
+    "description": "nxt-theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "icon":"icon.png",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Neext Light theme",
+                "uiTheme": "vs",
+                "path": "./themes/nxt-light-theme-color-theme.json"
+            },
+            {
+                "label": "Next Dark",
+                "uiTheme": "vs",
+                "path": "./themes/nxt-dark.json"
+            },
+            {
+                "label": "Don't try this Theme!",
+                "uiTheme": "vs",
+                "path": "./themes/nxt-RED.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/manjushsh/vsc-theme-light.git"
+      },
+      "keywords": [
+        "vscode",
+        "theme",
+        "dark",
+        "dark-theme"
+      ],
+      "author": "Manjush S",
+      "license": "MIT",
+      "bugs": {
+        "url": "https://github.com/manjushsh/vsc-theme-light/issues"
+      },
+      "homepage": "https://github.com/manjushsh/vsc-theme-light#readme"
+}
